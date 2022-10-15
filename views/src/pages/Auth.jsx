@@ -4,7 +4,7 @@ import { Outlet } from "react-router-dom";
 
 import Box from "@mui/material/Box";
 
-import imgSrc from "../assets/images/auth-img.jpg";
+import imgSrc from "/src/assets/images/auth-img.jpg";
 
 const Auth = () => {
   return (
