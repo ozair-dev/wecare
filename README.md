@@ -1,9 +1,13 @@
 ### Wecare is an app that helps you track your daily health related activities. User can select the daily activities and login daily to check mark the activities he has completed. Users can also chat about health related stuff in the discussion tab
 
 
-See [demo here](https://wecare-8081e.web.app/auth)
 
-[sample video](./sample.webm)
+View [live demo here](https://wecare-8081e.web.app/auth)
+
+-----
+
+### Sample video
+[![sample](/sample.png)](/sample.webm)
 
 ## Technologies Used
   - React
