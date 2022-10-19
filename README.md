@@ -6,9 +6,6 @@ View [live demo here](https://wecare-8081e.web.app/auth)
 
 -----
 
-### Sample video
-[![sample](/sample.png)](/sample.webm)
-
 ## Technologies Used
   - React
   - Firebase
